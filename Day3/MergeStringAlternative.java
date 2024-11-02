@@ -1,6 +1,4 @@
 package Day3;
-solution 1
-since we have ti
 
 // class Solution {
 //     public String mergeAlternately(String word1, String word2) {
