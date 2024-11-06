@@ -48,7 +48,7 @@ public void addEdge(int x, int y)
     else {
         // connecting the vertices
         g[y][x] = 1;
-        g[x][y] = 1;
+        g[x][y] = 1;//
     }
 }
 
