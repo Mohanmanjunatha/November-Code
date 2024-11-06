@@ -8,7 +8,6 @@ class Graph{
         this.n=x;
         int i,j;
 
-
         // initialize each element of the matrix
         for (int i=0;i<n;i++){
             for (int j=0;j<n;j++){
